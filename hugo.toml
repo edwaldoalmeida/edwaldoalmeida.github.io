@@ -57,19 +57,14 @@ defaultContentLanguageInSubdir = true
 
 [menus]
   [[menus.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menus.main]]
     name = "Posts"
     url = "/posts/"
-    weight = 2
+    weight = 1
 
   [[menus.main]]
     name = "About"
     url = "/about/"
-    weight = 4   # adjust to your preferred position in the nav bar
+    weight = 2   # adjust to your preferred position in the nav bar
 
   [[menus.footer]]
     name = "Privacy"
