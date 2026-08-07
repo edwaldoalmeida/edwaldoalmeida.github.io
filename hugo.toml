@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 locale = 'en-ca'
-title = 'Edwaldo Almeida website'
-theme = "hugo-primer-blog"
+title = 'Edwaldo Almeida'
+theme = 'hugo-primer-blog'
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir = true
   dateFormat = "2006-01-02"
   showReadingTime = true
   showAuthor = true
-  showShareButtons = true
+  showShareButtons = false
   googleAnalyticsID = "G-XXXXXXXXXX"  # Google Analytics 4 ID
 
   # Sidebar modules - order determines display order
@@ -28,8 +28,7 @@ defaultContentLanguageInSubdir = true
     partial = "archive"
 
   [params.social]
-    github = "your-username"
-    x = "your-username"
+    github = "edwaldoalmeida"
 
   # Custom favicon (optional)
   faviconIco = "favicon.ico"
@@ -66,6 +65,11 @@ defaultContentLanguageInSubdir = true
     name = "Posts"
     url = "/posts/"
     weight = 2
+
+  [[menus.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4   # adjust to your preferred position in the nav bar
 
   [[menus.footer]]
     name = "Privacy"
