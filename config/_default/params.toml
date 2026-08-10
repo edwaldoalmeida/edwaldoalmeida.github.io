@@ -18,9 +18,8 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
     subtitle = "Software Engineer"
-    avatar   = "img/avatar.png"
+    avatar   = "img/1560342405370.jpeg"
 
 [article]
     headingAnchor = false
