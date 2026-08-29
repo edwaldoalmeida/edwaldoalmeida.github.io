@@ -17,7 +17,7 @@ Before diving into software engineering, I spent over a decade designing and sec
 
 My software engineering career started automating testing inside complex healthcare imaging software systems, which gave me a genuinely unique perspective: I've seen every layer of the stack from a quality standpoint and understood how they're built, where they break, and what it takes to make them reliable. Over the years I’ve gained hands-on experience working with Python to create automation frameworks, using Docker and Kubernetes to containerize services and designing CI/CD pipelines. I also know my way around Java, JavaScript/TypeScript, NoSQL/SQL and I'm currently expanding into full stack development, integration of applications with AI resources and deployment to AWS.
 
-I believe that AI is no longer just a promise; it's a true force multiplier. My belief is based on my experience learning and integrating Generative AI into my workflow since 2022. What started with just chatting, quickly moved on to coding, and now I’m really enjoying developing with agents and experimenting with local LLMs!
+I believe that AI is no longer just a promise; it's a true force multiplier. And that belief is based on my experience learning and integrating Generative AI into my workflow since 2022. What started with just chatting quickly moved on to coding, and now I’m really enjoying developing with agents, experimenting with local LLMs and learning all the ways that they can be helpful.
 
 Lately, I've been:
 * building ASTRA, an AI-powered testing assistant that cuts regression effort by 90%
