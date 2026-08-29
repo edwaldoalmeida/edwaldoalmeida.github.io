@@ -34,7 +34,7 @@ When I'm not working, I'm tinkering with my home lab, playing with my AI agents,
 
 You can just call me Eddie, btw :)
 
-https://www.linkedin.com/in/edwaldoalmeida/
+https://www.linkedin.com/in/edwaldoalmeida
 
 {{< quote author="Steve Jobs" source="Make Something Wonderful, Steve Jobs in his own words" url="https://book.stevejobsarchive.com">}}
 "Being the richest man in the cemetery doesn't matter to me. Going to bed saying we've done something wonderful… that's what matters to me."
