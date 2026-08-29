@@ -4,8 +4,8 @@ description:
 slug: hello-world
 date: 2026-08-08 00:00:00+0000
 image: 
-categories:
-    - Example Category
+# categories:
+    # - Example Category
 tags:
     - misc
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
