@@ -14,3 +14,8 @@
 
     [social.params]
         icon = "brand-github"
+
+[[social]]
+    identifier = "linkedin"
+    name       = "LinkedIn"
+    url        = "https://www.linkedin.com/in/edwaldoalmeida/"
