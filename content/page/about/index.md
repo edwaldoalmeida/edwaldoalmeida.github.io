@@ -15,13 +15,13 @@ readingTime: false
 
 Software engineer, based off of Waterloo, ON, Canada, 7 years building software for healthcare imaging. Testing automation, Python, NoSQL/SQL, Docker, Kubernetes, Jenkins, and AI tools came second nature to me. Also able to do some damage with Java and JavaScript/TypeScript. Just including in my skill set: full stack development, deployment to AWS, Go for backend/tooling and integration of applications with AI resources.
 
-Before that, in Brazil, after my graduation in Computer Science, I worked for 10 years with networking, then project management, then got burnt out. I took a time off in a five-year entrepreneurial endeavour selling and managing real estate. Linux and Windows servers, routers, firewalls, proxies, and fulfilling customers’ necessities became instinctive for me.
+Before that, in Brazil, after my graduation in Computer Science, I worked for 10 years with networking, then project management. After a burnout, I took a time off in an entrepreneurial endeavour selling and managing real estate. Linux and Windows servers, routers, firewalls, proxies, and fulfilling customers’ necessities became instinctive for me.
 
 Since 2022, I’ve been using AI daily. What started with just chatting quickly moved on to coding, and now I’m really enjoying developing with agents and experimenting with local LLMs!
 
 Actually, I’ve been interested in AI since the early 2000s, but that’s a whole post in itself!
 
-On my free time, I tinker with my home lab, AI, personal software, or write about that here.
+On my free time, I tinker with my home lab, AI, and personal software development, or write about that here.
 
 You can just call me Eddie, btw :)
 
