@@ -18,14 +18,14 @@ Before diving into software engineering, I spent over a decade designing and sec
 My software engineering career started automating testing inside complex healthcare imaging software systems, seeing every layer of the stack from a quality standpoint and understanding how they're built, where they break, and what it takes to make them reliable. Over the years, I’ve gained hands-on experience working with Python to create automation frameworks, using Docker and Kubernetes to containerize services, and designing CI/CD pipelines. I also know my way around Java, JavaScript/TypeScript, NoSQL/SQL, and I'm expanding into full-stack development and integration of applications with AI.
 
 
-Experimenting with Generative AI since 2022, from chatting to coding and local models, now agents, I've learned when it's helpful and when it isn't.
+Experimenting with Generative AI since 2022, from chatting to coding, then local models, now agents, I've learned when it's helpful and when it isn't.
 
 Lately, I've been:
 * building ASTRA, an AI-powered testing assistant that cuts regression effort by 90%
 * self-hosting open-weight LLMs, not only for learning purposes, but also to support heavy engineering users
 * developing AI-driven testing workflows
 * mentoring colleagues on responsible, AI-assisted development
-* adopting OpenSource Agent Harnesses such as Hermes Agent and OpenCode to support a variety of daily activities
+* adopting Open Source Agent Harnesses such as Hermes Agent and OpenCode to support a variety of daily activities
 
 Actually, I’ve been interested in AI since the early 2000s, but that’s a whole blog post in itself! :D
 
