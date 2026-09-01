@@ -4,7 +4,7 @@ description: "Sharing my experience so far"
 slug: hermes-agent
 date: 2026-08-31 00:00:00+0000
 topics: ["tools"]
-tags: ["ai", "agents", "hermes-agent"]
+tags: ["ai", "agents", "agent harness", "hermes agent"]
 draft: false
 categories:
     - AI
