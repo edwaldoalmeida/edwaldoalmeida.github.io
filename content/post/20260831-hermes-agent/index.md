@@ -28,7 +28,7 @@ Before committing, I spent time evaluating a few alternatives:
 
 - **OpenClaw** — Impressive release velocity (literally twice a day). But the rapid pace came with some worrisome security issues that gave me pause.
 - **NanoClaw/ZeroClaw/Moltis** — Didn't like their vibe. Something about them felt incomplete or half-baked.
-- **Pi Coding Agent** — At the time, it required too many decisions about architecture, tooling, and integration points. I wasn't prepared for that level of upfront commitment. Now there's oh-my-pi and I'm more confident on taking those decisions if needed, so I'll probably be playing with it soon :D
+- **Pi Coding Agent** — At the time, it required too many decisions about architecture, tooling, and integration points. I wasn't prepared for that level of upfront commitment. Now I'm more confident on taking those decisions and there's also oh-my-pi to help with that, so I'll probably be playing with it soon :D
 
 Hermes struck the right balance: mature enough to be useful day one, flexible enough to evolve with my needs, and didn’t seem to break out of nothing like OpenClaw.
 
