@@ -28,7 +28,7 @@ Before committing, I spent time evaluating a few alternatives:
 
 - **OpenClaw** — Impressive release velocity (literally twice a day). But the rapid pace came with some worrisome security issues that gave me pause.
 - **NanoClaw/ZeroClaw/Moltis** — Didn't like their vibe. Something about them felt incomplete or half-baked.
-- **Pi Coding Agent** — At the time, it required too many decisions about architecture, tooling, and integration points. I wasn't prepared for that level of upfront commitment. (Now there's oh-my-pi, which has changed my mind and I'll probably be playing with it soon.)
+- **Pi Coding Agent** — At the time, it required too many decisions about architecture, tooling, and integration points. I wasn't prepared for that level of upfront commitment. Now there's oh-my-pi and I'm more confident on taking those decisions if needed, so I'll probably be playing with it soon :D
 
 Hermes struck the right balance: mature enough to be useful day one, flexible enough to evolve with my needs, and didn’t seem to break out of nothing like OpenClaw.
 
@@ -38,7 +38,7 @@ Hermes struck the right balance: mature enough to be useful day one, flexible en
 
 ### Hardware
 
-A M1 MacBook Pro with 32GB of RAM. Could have used Insomnia to keep it awake, but so far its lid is just slightly open :D
+A M1 MacBook Pro with 32GB of RAM. Could have used the Insomnia app to keep it awake, but so far its lid is just slightly open :D (also for better thermal dissipation)
 
 ### Use case: personal assistance
 
@@ -50,11 +50,11 @@ I run Hermes Agent as my primary personal assistant, and I've set up three disti
 
 Each profile has its own personality and focus area. This separation keeps things organized and prevents context bleed between unrelated tasks.
 
-Examples of achievements with them:
-* Installed a Minecraft server
-* Created a skill that checks HackerNews and provides me with a brief summary of the top-N articles (and their comments) of a given day, so I can decide which one is worth reading
-* Numerous researches on topics of my interest
-* Getting assistance for all the initial planning and design of an app I'm developing
+Examples of what I've achieved with them:
+* Installed a Minecraft server with minimal interaction
+* Done numerous researches on topics of my interest
+* Getting assistance for the planning and design of an app I'm developing
+* Summary of the top-N articles (and their comments) on HackerNews for a given day, so I can decide which one is worth reading
 
 ### Telegram vs TUI
 
