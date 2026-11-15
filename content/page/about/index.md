@@ -23,7 +23,7 @@ Lately, I've been:
 * building ASTRA, an AI-powered testing assistant that cuts regression effort by 90% (currently becoming an agent with many additional features)
 * self-hosting open-weight LLMs, not only for learning purposes, but also to support heavy engineering users
 * developing AI-driven testing workflows
-* mentoring colleagues on effective use of AI
+* mentoring colleagues on effective AI use
 
 Actually, I’ve been interested in AI since the early 2000s, but that’s a whole blog post in itself! :D
 
